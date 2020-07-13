@@ -4,9 +4,3 @@ C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Mo
 C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Models\obj\Debug\DvdLibrary2.Models.csproj.CoreCompileInputs.cache
 C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Models\obj\Debug\DvdLibrary2.Models.dll
 C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Models\obj\Debug\DvdLibrary2.Models.pdb
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Models\bin\Debug\DvdLibrary2.Models.dll
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Models\bin\Debug\DvdLibrary2.Models.pdb
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Models\obj\Debug\DvdLibrary2.Models.csprojAssemblyReference.cache
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Models\obj\Debug\DvdLibrary2.Models.csproj.CoreCompileInputs.cache
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Models\obj\Debug\DvdLibrary2.Models.dll
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Models\obj\Debug\DvdLibrary2.Models.pdb

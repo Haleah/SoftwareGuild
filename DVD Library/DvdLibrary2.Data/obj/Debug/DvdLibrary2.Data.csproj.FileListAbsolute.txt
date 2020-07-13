@@ -14,19 +14,3 @@ C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Da
 C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.Migrations.init.resources
 C:\Users\Haleah\Documents\Visual Studio 2017\Projects\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.csproj.GenerateResource.cache
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\DvdLibrary2.Data.dll.config
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\DvdLibrary2.Data.dll
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\DvdLibrary2.Data.pdb
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\DvdLibrary2.Models.dll
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\EntityFramework.dll
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\DvdLibrary2.Models.pdb
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\EntityFramework.xml
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.csprojAssemblyReference.cache
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.Migrations.init.resources
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.csproj.GenerateResource.cache
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.csproj.CoreCompileInputs.cache
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.csproj.CopyComplete
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.dll
-C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\m9-summative\DvdLibrary2\DvdLibrary2.Data\obj\Debug\DvdLibrary2.Data.pdb

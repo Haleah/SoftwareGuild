@@ -1,0 +1,182 @@
+﻿@model List<DvdLibrary2.Models.Tables.Dvd>
+@{
+	ViewBag.Title = "Home Page";
+}
+
+<body>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-6">
+				<form action="" class="form-horizontal">
+					<div class="form-group pull-right">
+						<label for="searchType">Search</label>
+						<select name="searchType" id="searchType">
+							<option value="">Select</option>
+							<option value="Title">Title</option>
+							<option value="ReleaseYear">Realease year</option>
+							<option value="Director">Director</option>
+							<option value="Rating">Rating</option>
+						</select>
+						<label for="">Term:</label>
+						<input type="text" name="searchTerm" id="searchTerm">
+						<button class="btn btn-primary">Search</button>
+					</div>
+				</form>
+				<table class="table table-border table-striped" id="dvdTable">
+					<thead>
+						<tr>
+							<th>Title</th>
+							<th>Release Date</th>
+							<th>Director</th>
+							<th>Rating</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							@foreach (var dvd in Model)
+							{
+								<tr>
+									<td>@dvd.Title</td>
+									<td>@dvd.ReleaseYear</td>
+									<td>@dvd.Director</td>
+									<td>@dvd.Rating</td>
+								</tr>
+							<td>
+								<a href="#"><i class="fa fa-trash"></i></a>
+								<a href="#"><i class="fa fa-pencil"></i></a>
+							</td>
+							}
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="col-md-6">
+				<form class="form-horizontal" id="addDvd">
+					<fieldset>
+
+						<div class="form-group">
+							<label class="col-md-4 control-label" for="Title">Title</label>
+							<div class="col-md-4">
+								<input id="Title" name="Title" type="text" placeholder="" class="form-control input-md" required="">
+
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-md-4 control-label" for="Release Year">Release Year</label>
+							<div class="col-md-4">
+								<input id="ReleaseYear" name="Release Year" type="text" placeholder="" class="form-control input-md" required="">
+
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-md-4 control-label" for="Director">Director</label>
+							<div class="col-md-4">
+								<input id="Director" name="Director" type="text" placeholder="" class="form-control input-md" required="">
+
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-md-4 control-label" for="Rating">Rating</label>
+							<div class="col-md-4">
+								<select id="Rating" name="Rating" class="form-control">
+									<option value="R">R</option>
+									<option value="PG-13">PG-13</option>
+									<option value="PG">PG</option>
+									<option value="G">G</option>
+								</select>
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label class="col-md-4 control-label" for="Submit">Submit</label>
+							<div class="col-md-4">
+								<button id="Submit" name="Submit" class="btn btn-primary">Submit</button>
+							</div>
+						</div>
+
+					</fieldset>
+				</form>
+			</div>
+		</div>
+		<div class="modal" tabindex="-1" role="dialog" id="editDvdModule">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title">Edit Dvd</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						<form class="form-horizontal" id="editDvd">
+							<fieldset>
+
+								<input type="hidden" name="dvdId" id="editDvd">
+								<div class="form-group">
+									<label class="col-md-4 control-label" for="Title">Title</label>
+									<div class="col-md-4">
+										<input id="editTitle" name="Title" type="text" placeholder="" class="form-control input-md" required="">
+
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-md-4 control-label" for="Release Year">Release Year</label>
+									<div class="col-md-4">
+										<input id="editReleaseYear" name="Release Year" type="text" placeholder="" class="form-control input-md" required="">
+
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-md-4 control-label" for="Director">Director</label>
+									<div class="col-md-4">
+										<input id="editDirector" name="Director" type="text" placeholder="" class="form-control input-md" required="">
+
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-md-4 control-label" for="Rating">Rating</label>
+									<div class="col-md-4">
+										<select id="editRating" name="Rating" class="form-control">
+											<option value="R">R</option>
+											<option value="PG-13">PG-13</option>
+											<option value="PG">PG</option>
+											<option value="G">G</option>
+										</select>
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-md-4 control-label" for="Submit">Submit</label>
+									<div class="col-md-4">
+										<button id="editSubmit" name="Submit" class="btn btn-primary">Submit</button>
+									</div>
+								</div>
+
+							</fieldset>
+						</form>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="js/DataService.js"></script>
+	<script src="js/Home.js"></script>
+</body>
+</html>
