@@ -1,0 +1,23 @@
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\bin\Debug\Account.txt
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\obj\Debug\SGBank.BLL.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.BLL\obj\Debug\SGBank.BLL.pdb

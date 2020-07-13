@@ -1,0 +1,11 @@
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Models\obj\Debug\SGBank.Models.pdb

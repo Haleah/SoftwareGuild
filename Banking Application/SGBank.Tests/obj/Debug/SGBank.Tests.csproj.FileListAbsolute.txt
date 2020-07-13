@@ -1,0 +1,35 @@
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CopyComplete
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\Account.txt
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\obj\Debug\SGBank.Tests.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CopyComplete
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Tests\obj\Debug\SGBank.Tests.pdb

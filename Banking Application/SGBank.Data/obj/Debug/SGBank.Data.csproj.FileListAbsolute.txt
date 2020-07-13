@@ -1,0 +1,19 @@
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.csproj.CopyComplete
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\Visual Studio 2017\Projects\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\bin\Debug\Account.txt
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\obj\Debug\SGBank.Data.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\obj\Debug\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\obj\Debug\SGBank.Data.csproj.CopyComplete
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\SGBank.Data\obj\Debug\SGBank.Data.pdb
