@@ -1,0 +1,18 @@
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.UI.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.UI.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Floorings.UI.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Floorings.UI.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Floorings.UI.csproj.CopyComplete
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Flooring.UI.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Flooring.UI.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.UI.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.UI.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Floorings.UI.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Floorings.UI.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Floorings.UI.csproj.CopyComplete
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Flooring.UI.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.UI\obj\Debug\Flooring.UI.pdb

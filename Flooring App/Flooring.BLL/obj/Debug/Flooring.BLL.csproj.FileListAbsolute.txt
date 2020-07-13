@@ -1,0 +1,26 @@
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.BLL.exe
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.BLL.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Data.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.UI.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Data.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.UI.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csproj.CopyComplete
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.exe
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.BLL.exe
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.BLL.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Data.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.UI.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Data.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\bin\Debug\Flooring.UI.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csproj.CopyComplete
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.exe
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.pdb

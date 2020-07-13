@@ -1,0 +1,18 @@
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Data.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Data.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.csproj.CopyComplete
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Data.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Data.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.csproj.CopyComplete
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Data\obj\Debug\Flooring.Data.pdb

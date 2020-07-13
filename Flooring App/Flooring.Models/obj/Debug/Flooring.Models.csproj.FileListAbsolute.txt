@@ -1,0 +1,12 @@
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\bin\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\bin\Debug\Flooring.Models.pdb
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.dll
+C:\Users\Haleah\Documents\The Software Guild\Random School\BitBucket\haleah-barniak-individual-work2\Flooring\Flooring.Models\obj\Debug\Flooring.Models.pdb
