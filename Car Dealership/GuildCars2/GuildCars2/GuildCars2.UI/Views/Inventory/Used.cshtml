@@ -1,0 +1,70 @@
+﻿@model GuildCars2.UI.Models.InventoryUsedVM
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Used</title>
+</head>
+<body>
+	<h1>Used Vehicles</h1>
+	<div>
+		@using (Html.BeginForm("Used", "Inventory", FormMethod.Post))
+		{
+			<fieldset>
+
+				<div class="container">
+					<div class="row">
+						<label>Quick Search</label>
+						@Html.TextBoxFor(m => m.Form.Input)
+
+						<label>Price Min</label>
+						@Html.DropDownListFor(m => m.Form.PriceMin, Model.PriceMin)
+						<label>Price Max</label>
+						@Html.DropDownListFor(m => m.Form.PriceMax, Model.PriceMax)
+
+						<label>Year Min</label>
+						@Html.DropDownListFor(m => m.Form.YearMin, Model.YearMin)
+						<label>Year Max</label>
+						@Html.DropDownListFor(m => m.Form.YearMax, Model.YearMax)
+					</div>
+				</div>
+
+				<div class="form-group">
+					<button class="btn btn-primary">Search</button>
+
+				</div>
+
+			</fieldset>
+		}
+
+		<h1>Search Results</h1>
+		<table>
+			@foreach (var item in Model.Vehicles)
+			{
+				<tr>
+					<td>@item.Make @item.Model @item.Year</td>
+				</tr>
+				<tr>
+					<td>Body Style: @item.BodyStyle</td>
+					<td>Interior: @item.Interior</td>
+					<td>Sale Price: @item.SalePrice.ToString()</td>
+				</tr>
+				<tr>
+					<td>Transmission: @item.Transmission</td>
+					<td>Mileage: @item.ToString()</td>
+					<td>MSRP: @item.Msrp.ToString()</td>
+				</tr>
+				<tr>
+					<td>Color: @item.Color</td>
+					<td>Vin: @item.Vin</td>
+					<td>@Html.ActionLink("Details", "Details", "Inventory", new { id = item.VehicleId }, new { @class = "btn btn-primary" })</td>
+				</tr>
+			}
+		</table>
+	</div>
+</body>
+</html>

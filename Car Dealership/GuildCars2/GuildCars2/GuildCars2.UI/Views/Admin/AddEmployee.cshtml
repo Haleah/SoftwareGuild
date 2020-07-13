@@ -1,0 +1,58 @@
+﻿@model GuildCars2.UI.ViewModel.AdminAddEmployeeVM
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddEmployee</title>
+</head>
+<body>
+	<div>
+		@using (Html.BeginForm("AddEmployee", "Admin", FormMethod.Post))
+		{
+			<fieldset>
+
+				<div class="container">
+					<div class="row">
+						<label>First Name</label>
+							@Html.TextBoxFor(m => m.Form.FirstName)
+
+						<label>Last Name</label>
+							@Html.TextBoxFor(m => m.Form.LastName)
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<label>Email</label>
+							@Html.TextBoxFor(m => m.Form.Email)
+
+						<label>Role</label>
+							@Html.DropDownListFor(m => m.Form.Role, Model.AvailableRole)
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<label>Password</label>
+							@Html.TextBoxFor(m => m.Form.Password)
+
+						<label>Confirm Password</label>
+							@Html.TextBoxFor(m => m.Form.PasswordConfirm)
+					</div>
+				</div>
+
+				<div class="form-group">
+					<label class="col-md-4 control-label" for="Save"></label>
+					<div class="col-md-4">
+						<button class="btn btn-primary">Save</button>
+					</div>
+				</div>
+
+			</fieldset>
+		}
+	</div>
+</body>
+</html>

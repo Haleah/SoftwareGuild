@@ -1,0 +1,95 @@
+﻿@model GuildCars2.UI.Models.AdminAddVehicleVM
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddVehicle</title>
+</head>
+<body>
+	<h1>Add Vehicle</h1>
+	<div>
+		@using (Html.BeginForm("AddVehicle", "Admin", FormMethod.Post))
+		{
+			
+			<fieldset>
+
+				<div class="container">
+					<div class="row">
+						<label>Make</label>
+							@Html.DropDownListFor(m => m.Form.MakeId, Model.AvailableMakes)
+
+						<label>Model</label>
+							@Html.DropDownListFor(m => m.Form.ModelId, Model.AvailableModels)
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<label>Type</label>
+							@Html.DropDownListFor(m => m.Form.Type, Model.AvailableType)
+
+						<label>Body Style</label>
+							@Html.DropDownListFor(m => m.Form.BodyStyle, Model.AvailableBodyStyle)
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<label>Year</label>
+							@Html.TextBoxFor(m => m.Form.Year)
+
+						<label>Transmission</label>
+							@Html.TextBoxFor(m => m.Form.Transmission)
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<label>Color</label>
+							@Html.DropDownListFor(m => m.Form.Color, Model.AvailableColor)
+
+						<label>Interior</label>
+							@Html.DropDownListFor(m => m.Form.Interior, Model.AvailableInterior)
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<label>Mileage</label>
+							@Html.TextBoxFor(m => m.Form.Mileage)
+
+						<label>Vin #</label>
+							@Html.TextBoxFor(m => m.Form.Vin)
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<label>MSRP</label>
+							@Html.TextBoxFor(m => m.Form.Msrp)
+
+						<label>Sale Price</label>
+							@Html.TextBoxFor(m => m.Form.SalePrice)
+					</div>
+				</div>
+
+					<div class="form-group">
+						<label>Description</label>
+							@Html.TextAreaFor(m => m.Form.Description)
+					</div>
+
+					<div class="form-group">
+						<label class="col-md-4 control-label" for="Save">Save</label>
+						<div class="col-md-4">
+							<button class="btn btn-primary">Save</button>
+						</div>
+					</div>
+
+			</fieldset>
+		}
+	</div>
+</body>
+</html>

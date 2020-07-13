@@ -1,0 +1,62 @@
+﻿@model GuildCars2.UI.ViewModel.ReportsInventoryVM
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Inventory</title>
+</head>
+<body>
+	<h1>Inventory</h1>
+	<div>
+		@using (Html.BeginForm("Inventory", "Reports", FormMethod.Get))
+		{
+			<table>
+				<tr>
+					<th>Year</th>
+					<th>Make</th>
+					<th>Model</th>
+					<th>Count</th>
+					<th>Stock Value</th>
+				</tr>
+				@foreach (var item in Model.NewVehicles)
+				{
+				<tr>
+					<td>@Html.Display(Model.Year)</td>
+					<td>@Html.Display(Model.Make)</td>
+					<td>@Html.Display(Model.Model)</td>
+					<td>@Html.Display(Model.Count.ToString())</td>
+					<td>@Html.Display(Model.StockValue.ToString())</td>
+				</tr>
+
+				}
+			</table>
+
+			<table>
+				<tr>
+					<th>Year</th>
+					<th>Make</th>
+					<th>Model</th>
+					<th>Count</th>
+					<th>Stock Value</th>
+				</tr>
+				@foreach (var item in Model.UsedVehicles)
+				{
+				<tr>
+					<td>@item.Year</td>
+					<td>@item.Make</td>
+					<td>@item.Model</td>
+					<td>@Html.Display(Model.Count.ToString())</td>
+					<td>@Html.Display(Model.StockValue.ToString())</td>
+				</tr>
+
+				}
+			</table>
+		}
+
+	</div>
+</body>
+</html>

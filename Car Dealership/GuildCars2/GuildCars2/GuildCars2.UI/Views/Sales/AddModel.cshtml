@@ -1,0 +1,51 @@
+﻿@model GuildCars2.UI.ViewModel.SalesIndexModelsVM
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddModel</title>
+</head>
+<body>
+	<div>
+		@using (Html.BeginForm("AddModel", "Sales", FormMethod.Post))
+		{
+			<fieldset>
+				<h1>Add Model</h1>
+				<div class="container">
+					<div class="row">
+						<label >Model</label>
+							@Html.TextBoxFor(m => m.Form.Model)
+
+						<label >Makes</label>
+							@Html.DropDownListFor(m => m.Form.Makes, Model.AvailableMakes)
+
+							<button class="btn btn-primary">Add</button>
+					</div>
+				</div>
+			</fieldset>
+		}
+
+		<table>
+			<tr>
+				<th>Make</th>
+				<th>Model</th>
+				<th>Date Added</th>
+				<th>Employee</th>
+			</tr>
+			@foreach (var item in Model.Models)
+			{
+				<tr>
+					<td>@item.Make</td>
+					<td>@item.Model</td>
+					<td>@item.DateAdded.ToString()</td>
+					<td>@item.EmployeeId</td>
+				</tr>
+			}
+		</table>
+	</div>
+</body>
+</html>

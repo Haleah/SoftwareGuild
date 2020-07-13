@@ -1,0 +1,6 @@
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Model\bin\Debug\GuildCars.Model.dll
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Model\bin\Debug\GuildCars.Model.pdb
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Model\obj\Debug\GuildCars.Model.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Model\obj\Debug\GuildCars.Model.dll
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Model\obj\Debug\GuildCars.Model.pdb
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Model\obj\Debug\GuildCars.Model.csprojAssemblyReference.cache

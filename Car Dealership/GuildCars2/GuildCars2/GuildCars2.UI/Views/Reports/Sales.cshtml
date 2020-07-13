@@ -1,0 +1,54 @@
+﻿@model GuildCars2.UI.ViewModel.ReportsSalesVM
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sales</title>
+</head>
+<body>
+	<div>
+		@using (Html.BeginForm("Sales", "Reports", FormMethod.Post))
+		{
+			<fieldset>
+
+				<div class="container">
+					<div class="row">
+						<label>Employee</label>
+							@Html.DropDownListFor(m => m.Form.EmployeeId, Model.AvailableEmployees)
+
+						<label>Start Date</label>
+							@Html.TextBoxFor(m => m.Form.StartDate)
+
+						<label>End Date</label>
+							@Html.TextBoxFor(m => m.Form.EndDate)
+					</div>
+				</div>
+
+				<div class="form-group">
+						<button class="btn btn-primary">Submit</button>
+				</div>
+
+			</fieldset>
+		}
+
+		<table>
+			<tr>
+				<th>Employee</th>
+				<th>Total Sales</th>
+				<th>Total Vehicles</th>
+			</tr>
+			@foreach (var item in Model.AvailableEmployees)
+			{
+				<tr>
+					<td>@Html.Display(Model.Employee)</td>
+					<td>@Html.Display(Model.TotalSales.ToString())</td>
+					<td>@Html.Display(Model.Count.ToString())</td>
+				</tr>
+			}
+		</table>
+	</div>
+</body>
+</html>

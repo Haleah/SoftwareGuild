@@ -1,0 +1,38 @@
+﻿@model GuildCars2.UI.Models.InventoryDetailsVM
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+	<div>
+		<h1>Vehicle Details</h1>
+		<table>
+			<tr>
+				<td>@Html.DisplayFor(m => m.Year)</td>
+				<td>@Html.DisplayFor(m => m.Make)</td>
+				<td>@Html.DisplayFor(m => m.Model)</td>
+			</tr>
+			<tr>
+				<td>Body Style: @Html.DisplayFor(m => m.BodyStyle)</td>
+				<td>Interior: @Html.DisplayFor(m => m.Interior)</td>
+				<td>Sale Price: @Html.DisplayFor(m => m.SalePrice)</td>
+			</tr>
+			<tr>
+				<td>Transmission: @Html.DisplayFor(m => m.Transmission)</td>
+				<td>Mileage: @Html.DisplayFor(m => m.Mileage)</td>
+				<td>MSRP: @Html.DisplayFor(m => m.Msrp)</td>
+			</tr>
+			<tr>
+				<td>Color: @Html.DisplayFor(m => m.Color)</td>
+				<td>Vin: @Html.DisplayFor(m => m.Vin)</td>
+				<td>@Html.ActionLink("Contact", "Contact","Home", new { id = Model.VehicleId }, new { @class="btn btn-primary"})</td> 
+			</tr>
+		</table>
+	</div>
+</body>
+</html>

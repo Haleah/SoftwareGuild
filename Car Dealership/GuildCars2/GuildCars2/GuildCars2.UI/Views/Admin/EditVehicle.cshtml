@@ -1,0 +1,103 @@
+﻿@model GuildCars2.UI.ViewModel.AdminEditVehicleVM
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditVehicle</title>
+</head>
+<body>
+	<h1>Edit Vehicle</h1>
+	<div>
+		@using (Html.BeginForm("EditVehicle", "Admin", FormMethod.Post))
+		{
+			@Html.HiddenFor(m=> m.Form.VehicleId)
+		<fieldset>
+
+			<div class="container">
+				<div class="row">
+					<label>Make</label>@Html.DropDownListFor(m => m.Form.MakeId, Model.AvailableMakes)
+
+
+					<label>Model</label>@Html.DropDownListFor(m => m.Form.ModelId, Model.AvailableModels)
+
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<label >Type</label>
+						@Html.DropDownListFor(m => m.Form.Type, Model.AvailableType)
+
+					<label >Body Style</label>
+						@Html.DropDownListFor(m => m.Form.BodyStyle, Model.AvailableBodyStyle)
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<label >Year</label>
+						@Html.TextBoxFor(m => m.Form.Year)
+
+					<label >Transmission</label>
+						@Html.TextBoxFor(m => m.Form.Transmission)
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<label >Color</label>
+						@Html.DropDownListFor(m => m.Form.Color, Model.AvailableColor)
+
+					<label >Interior</label>
+						@Html.DropDownListFor(m => m.Form.Interior, Model.AvailableInterior)
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<label >Mileage</label>
+						@Html.TextBoxFor(m => m.Form.Mileage)
+
+					<label >Vin #</label>
+						@Html.TextBoxFor(m => m.Form.Vin)
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<label >MSRP</label>
+						@Html.TextBoxFor(m => m.Form.Msrp)
+
+					<label >Sale Price</label>
+						@Html.TextBoxFor(m => m.Form.SalePrice)
+				</div>
+			</div>
+
+			<div class="form-group">
+				<label >Description</label>
+					@Html.TextAreaFor(m => m.Form.Description)
+			</div>
+
+			<div class="form-group">
+				<label >Feature this vehicle</label>
+					<label class="checkbox-inline" for="featureVehicle-0">
+						<input type="checkbox" name="featureVehicle" id="featureVehicle-0" value="">
+					</label>
+			</div>
+
+			<div class="form-group">
+				<div class="col-md-8">
+					<button class="btn btn-danger">Delete</button>
+					<button class="btn btn-primary">Save</button>
+				</div>
+			</div>
+
+		</fieldset>
+		}
+	</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\bin\Debug\GuildCars.Data.dll
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\bin\Debug\GuildCars.Data.pdb
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\bin\Debug\GuildCars.Model.dll
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\bin\Debug\GuildCars.Model.pdb
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\obj\Debug\GuildCars.Data.csprojAssemblyReference.cache
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\obj\Debug\GuildCars.Data.csproj.CoreCompileInputs.cache
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\obj\Debug\GuildCars.Data.csproj.CopyComplete
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\obj\Debug\GuildCars.Data.dll
+C:\Users\Haleah\Documents\GitHub\online-net-Haleah\Summatives\ddwa-mastery\GuildCars2\GuildCars2\GuildCars.Data\obj\Debug\GuildCars.Data.pdb

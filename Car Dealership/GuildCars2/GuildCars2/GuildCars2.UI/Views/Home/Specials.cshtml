@@ -1,0 +1,29 @@
+﻿@model GuildCars2.UI.ViewModel.HomeSpecialsVM
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Specials</title>
+	<h1>Specials</h1>
+</head>
+<body>
+	<div>
+
+			@foreach (var item in Model.Specials)
+			{
+				<div class="container-fluid" style=" border: 1px solid #000000;">
+						<h3>
+							@Html.DisplayFor(modelItem => item.Title)
+						</h3>
+						<p>
+							@Html.DisplayFor(modelItem => item.Description)
+						</p>
+				</div>
+			}
+	</div>
+</body>
+</html>

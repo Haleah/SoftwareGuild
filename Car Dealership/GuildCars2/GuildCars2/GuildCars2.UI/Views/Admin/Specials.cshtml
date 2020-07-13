@@ -1,0 +1,54 @@
+﻿@model GuildCars2.UI.ViewModel.AdminSpecialsVM
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Specials</title>
+	<h1> Specials </h1>
+</head>
+
+
+<body>
+	<div>
+		@using (Html.BeginForm("Specials", "Admin", FormMethod.Post))
+		{
+
+				<div class="form-group">
+					<label>Title</label>
+						@Html.TextBoxFor(m => m.Form.Title)
+				</div>
+
+				<div class="form-group">
+					<label>Description</label>
+						@Html.TextAreaFor(m => m.Form.Description)
+				</div>
+
+				<div class="form-group">
+						<button class="btn btn-primary">Save</button>
+				</div>
+		}
+
+		<table class="table">
+
+			@foreach (var item in Model.Specials)
+			{
+				<tr>
+					<td>
+						@Html.DisplayFor(modelItem => item.Title)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Description)
+					</td>
+					<td>
+						@Html.ActionLink("Delete", "Specials", "Admin", new { id = item.SpecialId }, new { @class = "btn btn-primary" })
+					</td>
+				</tr>
+			}
+
+		</table>
+	</div>
+</body>
+</html>
